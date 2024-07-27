@@ -19,6 +19,10 @@
       <id>spigot-repo</id>
       <url>https://hub.spigotmc.org/nexus/content/repositories/snapshots/</url>
     </repository>
+    <repository>
+      <id>releases</id>
+      <url>https://repo.gamingcode.dev/repository/snapshots/</url>
+    </repository>
   </repositories>
 
   <distributionManagement>
