@@ -1,0 +1,5 @@
+name: CoinAPI
+author: Gamingcode
+main: de.gamingcode.coinapi.CoinAPI
+version: 1.0
+description: "This is an async coin api, with saving queue."
